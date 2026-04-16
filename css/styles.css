@@ -1,0 +1,58 @@
+        body{
+            font-family:Georgia, 'Times New Roman', Times, serif;
+            font-size: 25px;
+            font-style: italic;
+            color: rgb(38, 3, 3);
+            background-color: blue;
+        }
+        p{
+            color: rgb(60, 0, 46);
+            font-family:Georgia, 'Times New Roman', Times, serif;
+            font-style: normal;
+        }
+    .bold{
+            font-weight: bolder;
+            font-size:larger;
+            color: rgb(227, 4, 108);
+            text-shadow: 0cm;
+    }
+    .homebg{
+        backdrop-filter: initial;
+        background-color: rgb(255, 201, 218);
+    }
+   /* commenting in CSS works for both HTML and CSS */
+    a:hover{
+        text-decoration: none;
+        font-weight: bold;
+    }
+
+    .links{
+        text-decoration: none;
+        color: rgb(2, 45, 130);
+    }
+.center_div {
+    position: absolute;
+    top: 3900px;
+    left: 130px;
+    right: 130px;
+    bottom: 114px;
+    background-color: lightblue;
+}
+
+.box1 {
+    position: absolute;
+    top: 4000px;
+    left: 50px;
+    width: 200px;
+    height: 100px;
+    background-color: coral;
+}
+
+.box2 {
+    position: absolute;
+    top: 4000px;
+    left: 300px;
+    width: 200px;
+    height: 100px;
+    background-color: lightgreen;
+}
