@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(246, 251, 255)!important;
+}
+.text-primary{
+    color: rgb(90, 75, 158)!important;
+}
+.links{
+    color: rgb(57, 75, 81)!important;
+}
+.navbar.bg-primary{
+    background-color:rgb(57, 75, 81) !important;
+}
+.social-icons .social-icon:hover{
+  background-color:rgb(90, 75, 158)!important;
+}
